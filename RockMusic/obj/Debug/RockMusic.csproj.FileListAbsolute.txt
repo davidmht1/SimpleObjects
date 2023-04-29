@@ -1,0 +1,8 @@
+C:\Users\david\OneDrive\Desktop\All\Coding\C#\SeriousProjects\RockMusic\RockMusic\bin\Debug\RockMusic.exe.config
+C:\Users\david\OneDrive\Desktop\All\Coding\C#\SeriousProjects\RockMusic\RockMusic\bin\Debug\RockMusic.exe
+C:\Users\david\OneDrive\Desktop\All\Coding\C#\SeriousProjects\RockMusic\RockMusic\bin\Debug\RockMusic.pdb
+C:\Users\david\OneDrive\Desktop\All\Coding\C#\SeriousProjects\RockMusic\RockMusic\obj\Debug\RockMusic.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Desktop\All\Coding\C#\SeriousProjects\RockMusic\RockMusic\obj\Debug\RockMusic.csproj.SuggestedBindingRedirects.cache
+C:\Users\david\OneDrive\Desktop\All\Coding\C#\SeriousProjects\RockMusic\RockMusic\obj\Debug\RockMusic.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\All\Coding\C#\SeriousProjects\RockMusic\RockMusic\obj\Debug\RockMusic.exe
+C:\Users\david\OneDrive\Desktop\All\Coding\C#\SeriousProjects\RockMusic\RockMusic\obj\Debug\RockMusic.pdb
